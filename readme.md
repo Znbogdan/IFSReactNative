@@ -3,9 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/facebook/react-native/blob/master/LICENSE">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/License_icon-gnu_fdl.svg/256px-License_icon-gnu_fdl.svg.png" alt="GPL" />
-  </a>
+  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
   <a href="https://circleci.com/gh/facebook/react-native">
     <img src="https://circleci.com/gh/facebook/react-native.svg?style=shield" alt="Current CircleCI build status." />
   </a>
